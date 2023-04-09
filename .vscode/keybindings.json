@@ -1,8 +1,0 @@
-// * Автоматическое форматирование SCSS-файлов с помощью Stylelint и Prettier
-[
-	{
-		"key": "ctrl+s",
-		"command": "stylelint.executeAutofix",
-		"when": "editorTextFocus && editorLangId == 'scss'"
-	}
-]
